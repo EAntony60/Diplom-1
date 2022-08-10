@@ -17,6 +17,7 @@ public class BurgerTests {
 
     private float expectedPrice;
 
+
     @Spy
     private Bun bunSpy;
 
